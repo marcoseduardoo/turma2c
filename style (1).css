@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 123, 0);
+}
+
+.primeiraparte{
+    background-color: rgb(209, 28, 28);
+}
+
+  .foto{
+    width: 120px;
+    height: 120 px;
+  }
+
+  .todomundo{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+  }
+
+  .estudantes{
+    display:flex;
+  }
